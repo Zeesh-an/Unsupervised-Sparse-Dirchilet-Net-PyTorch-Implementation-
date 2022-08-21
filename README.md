@@ -1,5 +1,5 @@
 # Unsupervised-Sparse-Dirchilet-Net-PyTorch-Implementation-
-<p>Implementation of Research Paper(Unsupervised Sparse Dirchilet Net for Super Resolution of HyperSpectral Images) in PyTorch for Research Purposes<\p>
+<p>Implementation of Research Paper(Unsupervised Sparse Dirchilet Net for Super Resolution of HyperSpectral Images) in PyTorch for Research Purposes</p>
 <cite>
 @article{qu2018unsupervised,
   title={Unsupervised sparse Dirichlet-net for hyperspectral image super-resolution},
