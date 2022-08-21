@@ -1,5 +1,5 @@
 # Unsupervised-Sparse-Dirchilet-Net-PyTorch-Implementation-
-Implementation of Research Paper(Unsupervised Sparse Dirchilet Net for Super Resolution of HyperSpectral Images) in PyTorch for Research Purposes
+Implementation of Research Paper(Unsupervised Sparse Dirchilet Net for Super Resolution of HyperSpectral Images) in PyTorch for Research Purposes\n
 @article{qu2018unsupervised,
   title={Unsupervised sparse Dirichlet-net for hyperspectral image super-resolution},
   author={Qu, Ying and Qi, Hairong and Kwan, Chiman},
